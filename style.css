@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px ;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.another{
+    display: flex;
+}
+
+
+.half-widthright{width: 50%;
+    padding-right: 2%;
+    margin: 10%;
+    width: 50%;
+    
+}
+.half-widthright img{
+    width: 80%;
+    margin: 10%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-botton{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px ;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+} 
+.flexible-container{
+    display: flex;
+    width: 33.33%
+    padding: 20%;
+}
+.bluecolor{
+    width: 22%;
+    background-color: lightcyan;
+    border-radius: 5%;
+    margin: 2%;
+    padding: 50px;
+    background-image: url();
+}
+.yellowcolor{
+    width: 22%;
+    background-color: lightyellow;
+    margin: 2%;
+    border-radius: 5%;
+    padding: 50px;
+}
+.greencolor{
+    width: 22%;
+    background-color: lightgreen;
+    margin: 2%;
+    border-radius: 5%;
+    padding: 50px;
+
+}
+.mission-area{
+    display: flex;
+}
+.three-width{
+    width: 33%;
+    padding: 5%;
+}
+
+
